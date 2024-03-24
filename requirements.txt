@@ -1,0 +1,9 @@
+numpy
+pandas
+python-dateutil
+python-dotenv
+pydantic
+SQLAlchemy
+PyMySQL
+peewee
+mysql-connector-python
