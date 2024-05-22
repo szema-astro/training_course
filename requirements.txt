@@ -1,9 +1,15 @@
+click
 numpy
 pandas
 python-dateutil
 python-dotenv
 pydantic
 SQLAlchemy
-PyMySQL
+PyMySQL[rsa]
 peewee
 mysql-connector-python
+matplotlib
+PyQt5
+openpyxl
+pymssql
+peewee-mssql
